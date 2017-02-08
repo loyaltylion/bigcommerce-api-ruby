@@ -12,6 +12,7 @@ module Bigcommerce
     property :phone
     property :domain
     property :address
+    property :industry
     property :currency
     property :features
     property :language
